@@ -11,7 +11,7 @@ I focus on clean UI/UX, scalable backend APIs, and production-ready deployments.
 
 **Frontend & Mobile**
 - React, React Native, Expo
-- JavaScript (ES6+)
+- JavaScript (ES6+), TypeScript
 - HTML, CSS, Responsive Design
 - UI Animations & Navigation
 
