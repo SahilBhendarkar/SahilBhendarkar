@@ -80,12 +80,38 @@ A modern Hospital Management System built using React, TypeScript, Spring Boot, 
 🔗 https://hospital-management-appp.netlify.app
 
 💻 Frontend Repository
-🔗 https://github.com/SahilBhendarkar
+🔗 https://github.com/SahilBhendarkar/Hospital-Management-Frontend
 
 ⚙️ Backend Repository
-🔗 https://github.com/SahilBhendarkar
+🔗 https://github.com/SahilBhendarkar/Hospital-Management-Backend
 
-📱 Android APK (Expo EAS)
+---
+
+## 📱 Hospital Management Mobile App (React Native + Expo)
+
+A mobile version of the Hospital Management System built using React Native and Expo.
+
+### Features
+
+* Modern healthcare mobile UI
+* Responsive mobile screens
+* Smooth animations & navigation
+* Cross-platform support
+* Expo EAS integration
+
+### Tech Stack
+
+* React Native
+* Expo
+* TypeScript
+* React Navigation
+
+### Links
+
+💻 Expo Project Repository
+🔗 https://github.com/SahilBhendarkar/Hospital-Native
+
+📦 Android APK
 🔗 https://expo.dev/artifacts/eas/pid1yN2zJHUVQbJgk5hkZh.apk
 
 ---
