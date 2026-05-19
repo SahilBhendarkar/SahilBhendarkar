@@ -1,66 +1,125 @@
-## 👋 Hi, I'm Sahil Bhendarkar
+# 👋 Hi, I'm Sahil Bhendarkar
 
 🚀 Java Full Stack Developer | React | React Native | Spring Boot | Java
 
-I build end-to-end web and mobile applications, handling both frontend and backend development.  
+I build end-to-end web and mobile applications, handling both frontend and backend development.
 I focus on clean UI/UX, scalable backend APIs, and production-ready deployments.
 
 ---
 
-### 🧠 Skills
+## 🧠 Skills
 
-**Frontend & Mobile**
-- React, React Native, Expo
-- JavaScript (ES6+), TypeScript
-- HTML, CSS, Responsive Design
-- UI Animations & Navigation
+### Frontend & Mobile
 
-**Backend**
-- Java, Spring Boot
-- REST APIs
-- MySQL
-- Authentication & CRUD Operations
+* React
+* React Native
+* Expo
+* JavaScript (ES6+)
+* TypeScript
+* HTML
+* CSS
+* Tailwind CSS
+* Responsive Design
+* UI Animations & Navigation
 
-**Tools & Deployment**
-- Git & GitHub
-- Netlify (Web)
-- Expo EAS (Mobile)
-- Postman
+### Backend
 
----
+* Java
+* Spring Boot
+* REST APIs
+* MySQL
+* Authentication & CRUD Operations
+* Spring Data JPA
 
-### 📱 Featured Projects
+### Tools & Deployment
 
-
-#### 🏥 Hospital Management System (Frontend)
-
-- React web application with responsive UI
-- React Native mobile app built using Expo
-- Focused on UI/UX, navigation, and animations
- 
- 
-- 🌐 Web deployed on Netlify  
-  🔗 https://hospital-management-appp.netlify.app
-
-  
-- 🏥 Android APK generated using Expo (EAS)  
-  🔗 https://expo.dev/artifacts/eas/pid1yN2zJHUVQbJgk5hkZh.apk
+* Git & GitHub
+* Netlify
+* Expo EAS
+* Postman
+* Maven
 
 ---
 
-### 📂 More Projects
-- **MediOptiSOS** – Full-stack medicine finder platform  
-  https://github.com/SahilBhendarkar/MediOptiSOS
+# 📱 Featured Projects
 
-- **Inventory & Stock Management** – Java-based backend + frontend system  
-  https://github.com/SahilBhendarkar/Inventory-and-Stock-Management
+## 🏥 Hospital Management System (Full Stack)
 
-- **Inventory Management (Frontend)** – React UI project  
-  https://github.com/SahilBhendarkar/Inventory-Management-Frontend
+A modern Hospital Management System built using React, TypeScript, Spring Boot, and MySQL.
+
+### Features
+
+* Role-Based Authentication
+* Patient, Doctor & Admin Dashboards
+* Doctors & Departments Management
+* Contact Enquiry System
+* Responsive Healthcare UI
+* API Integration with Spring Boot
+* MySQL Database Connectivity
+* Modern Dashboard & Sidebar UI
+
+### Frontend Tech Stack
+
+* React
+* TypeScript
+* Tailwind CSS
+* Redux Toolkit
+* Framer Motion
+* Axios
+
+### Backend Tech Stack
+
+* Spring Boot
+* Spring Data JPA
+* MySQL
+* REST APIs
+
+### Links
+
+🌐 Frontend Deployment
+🔗 https://hospital-management-appp.netlify.app
+
+💻 Frontend Repository
+🔗 https://github.com/SahilBhendarkar
+
+⚙️ Backend Repository
+🔗 https://github.com/SahilBhendarkar
+
+📱 Android APK (Expo EAS)
+🔗 https://expo.dev/artifacts/eas/pid1yN2zJHUVQbJgk5hkZh.apk
 
 ---
 
-### 📫 Contact
-- 📧 Email: sahilbhendarkar19@gmail.com
-- 💻 GitHub: https://github.com/SahilBhendarkar
-- 🔗 LinkedIn: https://www.linkedin.com/in/sahil-bhendarkar-b36905282
+# 📂 More Projects
+
+## 💊 MediOptiSOS
+
+Full-stack medicine finder platform
+
+🔗 https://github.com/SahilBhendarkar/MediOptiSOS
+
+---
+
+## 📦 Inventory & Stock Management
+
+Java-based inventory and stock management system
+
+🔗 https://github.com/SahilBhendarkar/Inventory-and-Stock-Management
+
+---
+
+## 🎨 Inventory Management Frontend
+
+Modern React frontend UI project
+
+🔗 https://github.com/SahilBhendarkar/Inventory-Management-Frontend
+
+---
+
+# 📫 Contact
+
+📧 Email: [sahilbhendarkar19@gmail.com](mailto:sahilbhendarkar19@gmail.com)
+
+💻 GitHub: https://github.com/SahilBhendarkar
+
+🔗 LinkedIn: https://www.linkedin.com/in/sahil-bhendarkar-b36905282
