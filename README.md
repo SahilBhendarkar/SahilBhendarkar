@@ -2,13 +2,17 @@
 
 🚀 Java Full Stack Developer | React | React Native | Spring Boot | Java
 
-I build end-to-end web and mobile applications, handling both frontend and backend development. I focus on clean UI/UX, scalable backend APIs, and production-ready deployments.
+I build end-to-end web and mobile applications, handling both frontend and backend development.
+I focus on clean UI/UX, scalable backend APIs, and production-ready deployments.
 
 ---
 
-# 🌐 Portfolio
+🌐 Portfolio
 
-🔗 Portfolio Website
+🔗 Live Portfolio
+https://sahil-portfoliio.netlify.app/
+
+💻 Portfolio Repository
 https://github.com/SahilBhendarkar/Portfolio
 
 ---
@@ -83,19 +87,19 @@ A modern Hospital Management System built using React, TypeScript, Spring Boot, 
 ### Links
 
 🌐 Frontend Deployment
-https://hospital-management-appp.netlify.app
+🔗 https://hospital-management-appp.netlify.app
 
 💻 Frontend Repository
-https://github.com/SahilBhendarkar/Hospital-Management-Frontend
+🔗 https://github.com/SahilBhendarkar/Hospital-Management-Frontend
 
 ⚙️ Backend Repository
-https://github.com/SahilBhendarkar/Hospital-Management-Backend
+🔗 https://github.com/SahilBhendarkar/Hospital-Management-Backend
 
 ---
 
-## 📱 Hospital Management Mobile App
+## 📱 Hospital Management Mobile App (React Native + Expo)
 
-Built using React Native and Expo.
+A mobile version of the Hospital Management System built using React Native and Expo.
 
 ### Features
 
@@ -114,11 +118,11 @@ Built using React Native and Expo.
 
 ### Links
 
-💻 Repository
-https://github.com/SahilBhendarkar/Hospital-Native
+💻 Expo Project Repository
+🔗 https://github.com/SahilBhendarkar/Hospital-Native
 
 📦 Android APK
-https://expo.dev/artifacts/eas/pid1yN2zJHUVQbJgk5hkZh.apk
+🔗 https://expo.dev/artifacts/eas/pid1yN2zJHUVQbJgk5hkZh.apk
 
 ---
 
@@ -128,7 +132,7 @@ https://expo.dev/artifacts/eas/pid1yN2zJHUVQbJgk5hkZh.apk
 
 Full-stack medicine finder platform
 
-https://github.com/SahilBhendarkar/MediOptiSOS
+🔗 https://github.com/SahilBhendarkar/MediOptiSOS
 
 ---
 
@@ -136,7 +140,7 @@ https://github.com/SahilBhendarkar/MediOptiSOS
 
 Java-based inventory and stock management system
 
-https://github.com/SahilBhendarkar/Inventory-and-Stock-Management
+🔗 https://github.com/SahilBhendarkar/Inventory-and-Stock-Management
 
 ---
 
@@ -144,17 +148,16 @@ https://github.com/SahilBhendarkar/Inventory-and-Stock-Management
 
 Modern React frontend UI project
 
-https://github.com/SahilBhendarkar/Inventory-Management-Frontend
+🔗 https://github.com/SahilBhendarkar/Inventory-Management-Frontend
 
 ---
 
 # 📫 Contact
 
-📧 Email
-[sahilbhendarkar19@gmail.com](mailto:sahilbhendarkar19@gmail.com)
+📧 Email: [sahilbhendarkar19@gmail.com](mailto:sahilbhendarkar19@gmail.com)
 
-💻 GitHub
-https://github.com/SahilBhendarkar
+💻 GitHub: https://github.com/SahilBhendarkar
 
-🔗 LinkedIn
-https://www.linkedin.com/in/sahil-bhendarkar-b36905282
+🔗 LinkedIn: https://www.linkedin.com/in/sahil-bhendarkar-b36905282
+
+https://github.com/SahilBhendarkar/Portfolio  add these portfolio in my profile overview of github
